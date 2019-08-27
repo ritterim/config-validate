@@ -2,6 +2,8 @@
 
 A .NET Global Tool designed to sniff out configuration issues between different environments.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/30rgct3guhp1smh3?svg=true)](https://ci.appveyor.com/project/RimDev/config-validate)
+
 ## Conventions
 
 This tool assumes a two things are true about your configuration files.
